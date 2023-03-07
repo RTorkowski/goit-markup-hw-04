@@ -231,6 +231,7 @@ header{
   flex-direction: column;
   color:white;
   background-color: #2F303A;
+
   line-height: 1,36;
 }
 
@@ -254,12 +255,13 @@ header{
   border-radius: 0px 0px 4px 4px;
   
 }
-
- .imagine-box-team{
+.imagine-box-team{
   margin-top: 94px;
- padding: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
   display: flex;
   flex-direction: column;
   align-items: center;
   background: #F5F4FA;
  }
+
